@@ -47,6 +47,6 @@ Through this project, I learned:
 
 Add your GitHub Pages link here:
 
-`*https://abhianmol646-top.github.io/STUDENT-PERFORMANCE-CALCULATOR/`
+`https://abhianmol646-top.github.io/STUDENT-PERFORMANCE-CALCULATOR/`
 
 
